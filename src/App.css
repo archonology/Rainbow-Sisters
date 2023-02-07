@@ -1,0 +1,78 @@
+:root {
+  --unicorn: rgb(254, 228, 231);
+  --nights: rgb(50, 44, 44);
+  --blaze: rgb(255, 57, 47);
+  --heal: rgb(93, 22, 73);
+
+}
+
+html body {
+  background-color: var(--heal);
+  background-position: fixed;
+  color: var(--unicorn);
+}
+
+.footspace {
+  margin-bottom: 1em;
+}
+
+.title {
+  color: white
+}
+
+
+.welcome {
+  font-size: 68px;
+  color: white
+}
+.heading {
+  font-size: 48px;
+}
+
+.mainText {
+  color: var(--unicorn);
+  font-size: 18px;
+  /* text-shadow: 1px 2px 24px rgb(21, 21, 21); */
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.red {
+  color: rgb(252, 114, 107);
+}
+
+.orange {
+  color: rgb(253, 140, 19);
+}
+.yellow {
+  color: rgb(253, 248, 102);
+}
+.blue {
+  color: rgb(111, 120, 251);
+}
+.green {
+  color: rgb(121, 203, 121);
+}
+
+.purple {
+  color: rgba(215, 78, 215, 0.808);
+}
+
+.seven {
+  color: white;
+}
+.dark {
+  color: rgba(50, 44, 44, 0.705);
+}
+
+.lightblue {
+  color: rgb(82, 204, 249);
+}
+
+.shadowy {
+  box-shadow: -2px 5px 14px rgba(14, 14, 14, 0.446);
+}
+
+.meherdevs {
+  font-size: 14px;
+}
