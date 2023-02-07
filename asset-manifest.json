@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Rainbow-Sisters/static/css/main.4f320602.css",
+    "main.js": "/Rainbow-Sisters/static/js/main.b4b46b7d.js",
+    "static/js/787.2a7ef690.chunk.js": "/Rainbow-Sisters/static/js/787.2a7ef690.chunk.js",
+    "static/media/plant.JPG": "/Rainbow-Sisters/static/media/plant.730cec0d5d116d2c8c62.JPG",
+    "static/media/rainbowsisters.jpeg": "/Rainbow-Sisters/static/media/rainbowsisters.ec66884a29bfc47a9e8d.jpeg",
+    "index.html": "/Rainbow-Sisters/index.html",
+    "main.4f320602.css.map": "/Rainbow-Sisters/static/css/main.4f320602.css.map",
+    "main.b4b46b7d.js.map": "/Rainbow-Sisters/static/js/main.b4b46b7d.js.map",
+    "787.2a7ef690.chunk.js.map": "/Rainbow-Sisters/static/js/787.2a7ef690.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f320602.css",
+    "static/js/main.b4b46b7d.js"
+  ]
+}
