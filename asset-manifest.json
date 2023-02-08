@@ -1,17 +1,27 @@
 {
   "files": {
-    "main.css": "/Rainbow-Sisters/static/css/main.4f320602.css",
-    "main.js": "/Rainbow-Sisters/static/js/main.b4b46b7d.js",
+    "main.css": "/Rainbow-Sisters/static/css/main.8a23b767.css",
+    "main.js": "/Rainbow-Sisters/static/js/main.b0401a5d.js",
     "static/js/787.2a7ef690.chunk.js": "/Rainbow-Sisters/static/js/787.2a7ef690.chunk.js",
     "static/media/plant.JPG": "/Rainbow-Sisters/static/media/plant.730cec0d5d116d2c8c62.JPG",
+    "static/media/fox.jpeg": "/Rainbow-Sisters/static/media/fox.64521ced04e7e0a8410a.jpeg",
     "static/media/rainbowsisters.jpeg": "/Rainbow-Sisters/static/media/rainbowsisters.ec66884a29bfc47a9e8d.jpeg",
+    "static/media/snuggle.jpeg": "/Rainbow-Sisters/static/media/snuggle.839e90c36347aa66507d.jpeg",
+    "static/media/bob.jpeg": "/Rainbow-Sisters/static/media/bob.bd31dbfd6aa9c37e2699.jpeg",
+    "static/media/jelly.jpeg": "/Rainbow-Sisters/static/media/jelly.56fb391a1f2f19467fd0.jpeg",
+    "static/media/orange.jpeg": "/Rainbow-Sisters/static/media/orange.30904d56e9369ffa3a0e.jpeg",
+    "static/media/hands.jpeg": "/Rainbow-Sisters/static/media/hands.a5db49175b1197d264f7.jpeg",
+    "static/media/red.jpeg": "/Rainbow-Sisters/static/media/red.0e4387d2c09f1d8f88c0.jpeg",
+    "static/media/dress.jpeg": "/Rainbow-Sisters/static/media/dress.a96d60895ac0473609cb.jpeg",
+    "static/media/yellow.jpeg": "/Rainbow-Sisters/static/media/yellow.bacee0b2e8ad5ce0332b.jpeg",
+    "static/media/black.jpeg": "/Rainbow-Sisters/static/media/black.56f4d838128da59a3c5f.jpeg",
     "index.html": "/Rainbow-Sisters/index.html",
-    "main.4f320602.css.map": "/Rainbow-Sisters/static/css/main.4f320602.css.map",
-    "main.b4b46b7d.js.map": "/Rainbow-Sisters/static/js/main.b4b46b7d.js.map",
+    "main.8a23b767.css.map": "/Rainbow-Sisters/static/css/main.8a23b767.css.map",
+    "main.b0401a5d.js.map": "/Rainbow-Sisters/static/js/main.b0401a5d.js.map",
     "787.2a7ef690.chunk.js.map": "/Rainbow-Sisters/static/js/787.2a7ef690.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f320602.css",
-    "static/js/main.b4b46b7d.js"
+    "static/css/main.8a23b767.css",
+    "static/js/main.b0401a5d.js"
   ]
 }
