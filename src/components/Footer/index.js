@@ -10,7 +10,7 @@ function Footer() {
 
     return (
         <>
-            <Navbar bg="transparent" variant="dark" className="p-1 mb-1 footer" fixed="bottom">
+            <Navbar bg="light" variant="light" className="p-1 footer" fixed="bottom">
                 <Container fluid >
 
                     <Nav className="justify-content-center flex-grow-1 pe-3">

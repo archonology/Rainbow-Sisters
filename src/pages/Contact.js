@@ -66,7 +66,7 @@ function Contact() {
         <div>
 
             <Container className="text-center p-4 ">
-                <h2 className="heading">Contact</h2>
+            <h2 className="heading">Cont<span className="red">act</span></h2>
                 <hr></hr>
                 <p className="mainText">Send your encouragement to the Rainbow Sisters!</p>
                 {errorMessage && (

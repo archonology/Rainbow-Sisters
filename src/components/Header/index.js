@@ -20,18 +20,18 @@ function Header() {
                         id={`offcanvasNavbar-expand-md}`}
                         aria-labelledby={`offcanvasNavbarLabel-expand-md}`}
                         placement="end"
-                        className="bg-dark variant-white"
+                        className="offcanv"
                     >
                         <Offcanvas.Header closeButton>
 
-                            <Offcanvas.Title id={`offcanvasNavbarLabel-expand-md}`}>
+                            <Offcanvas.Title id={`offcanvasNavbarLabel-expand-md}`} className='logo'>
                                 the Rainbow Sisters
                             </Offcanvas.Title>
                         </Offcanvas.Header>
                         <Offcanvas.Body>
                             <Nav className="justify-content-end flex-grow-1 pe-3">
 
-                                <Nav.Link as={Link} to="/about">About</Nav.Link>
+                                <Nav.Link as={Link} to="/about" className="">About</Nav.Link>
                                 <Nav.Link as={Link} to="/art">Artwork</Nav.Link>
                                 <Nav.Link as={Link} to="/contact">Contact</Nav.Link>
                                 

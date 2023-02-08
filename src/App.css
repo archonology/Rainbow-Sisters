@@ -13,20 +13,32 @@ html body {
 }
 
 .footspace {
-  margin-bottom: 1em;
+  margin-bottom: 5em;
 }
 
 .title {
-  color: white
+  color: white;
+  font-size: xx-large;
+  font-family: 'Love Ya Like A Sister', cursive;
 }
 
+.offcanv {
+color: var(--nights);
+}
 
 .welcome {
   font-size: 68px;
-  color: white
+  color: white;
+  font-family: 'Love Ya Like A Sister', cursive;
 }
 .heading {
-  font-size: 48px;
+  font-size: 64px;
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+
+.logo{
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-size: x-large;
 }
 
 .mainText {
@@ -75,4 +87,5 @@ html body {
 
 .meherdevs {
   font-size: 14px;
+  font-family: 'Love Ya Like A Sister', cursive;
 }

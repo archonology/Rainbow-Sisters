@@ -7,6 +7,16 @@ import Box from '@mui/material/Box';
 import Grid from '@mui/material/Grid';
 import Image from 'mui-image';
 import plant from '../artwork/plant.JPG'
+import black from '../artwork/black.jpeg'
+import bob from '../artwork/bob.jpeg'
+import dress from '../artwork/dress.jpeg'
+import fox from '../artwork/fox.jpeg'
+import hands from '../artwork/hands.jpeg'
+import jelly from '../artwork/jelly.jpeg'
+import orange from '../artwork/orange.jpeg'
+import red from '../artwork/red.jpeg'
+import snuggle from '../artwork/snuggle.jpeg'
+import yellow from '../artwork/yellow.jpeg'
 
 
 
@@ -83,20 +93,36 @@ const Art = () => {
 
                         <Grid item xs={10} sm={5} md={4} lg={3}>
                             <Image
-                                src={plant}
-                                alt={"pic goes here"}
+                                src={fox}
+                                alt={"art by jocelyn"}
                                 fit="contain"
                                 className="shadowy"
                             ></Image>
                         </Grid>
 
-                        {/* <Grid item xs={10} sm={5} md={4} lg={3}>
+                        <Grid item xs={10} sm={5} md={4} lg={3}>
                             <Image
-                                src={plant}
-                                alt={"pic goes here"}
+                                src={dress}
+                                alt={"art by jocelyn"}
                                 fit="contain"
                             ></Image>
-                        </Grid> */}
+                        </Grid>
+
+                        <Grid item xs={10} sm={5} md={4} lg={3}>
+                            <Image
+                                src={jelly}
+                                alt={"art by jocelyn"}
+                                fit="contain"
+                            ></Image>
+                        </Grid>
+
+                        <Grid item xs={10} sm={5} md={4} lg={3}>
+                            <Image
+                                src={bob}
+                                alt={"art by jocelyn"}
+                                fit="contain"
+                            ></Image>
+                        </Grid>
 
                     </Grid>
 
@@ -104,14 +130,64 @@ const Art = () => {
                 </TabPanel>
                 <TabPanel value={value} index={1}>
 
+                    <Grid container spacing={{ xs: 2, md: 2, lg: 3 }} columns={{ xs: 12, sm: 12, md: 10, lg: 10 }} justifyContent="center">
 
+                        <Grid item xs={10} sm={5} md={4} lg={3}>
+                            <Image
+                                src={hands}
+                                alt={"art by willow"}
+                                fit="contain"
+                            ></Image>
+                        </Grid>
 
+                        <Grid item xs={10} sm={5} md={4} lg={3}>
+                            <Image
+                                src={snuggle}
+                                alt={"art by willow"}
+                                fit="contain"
+                            ></Image>
+                        </Grid>
 
+                    </Grid>
 
                 </TabPanel>
                 <TabPanel value={value} index={2}>
 
+                    <Grid container spacing={{ xs: 2, md: 2, lg: 3 }} columns={{ xs: 12, sm: 12, md: 10, lg: 10 }} justifyContent="center">
 
+                        <Grid item xs={10} sm={5} md={4} lg={3}>
+                            <Image
+                                src={black}
+                                alt={"art by eliza"}
+                                fit="contain"
+                            ></Image>
+                        </Grid>
+
+                        <Grid item xs={10} sm={5} md={4} lg={3}>
+                            <Image
+                                src={orange}
+                                alt={"art by eliza"}
+                                fit="contain"
+                            ></Image>
+                        </Grid>
+
+                        <Grid item xs={10} sm={5} md={4} lg={3}>
+                            <Image
+                                src={red}
+                                alt={"art by eliza"}
+                                fit="contain"
+                            ></Image>
+                        </Grid>
+
+                        <Grid item xs={10} sm={5} md={4} lg={3}>
+                            <Image
+                                src={yellow}
+                                alt={"art by eliza"}
+                                fit="contain"
+                            ></Image>
+                        </Grid>
+
+                    </Grid>
 
                 </TabPanel>
 
